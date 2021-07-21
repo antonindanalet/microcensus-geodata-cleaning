@@ -1,2 +1,2 @@
-# Geodata cleaning of the Swiss Mobility and Transport Microcensus
+# Geodata cleaning of the Mobility and Transport Microcensus
 R code used to clean the geodata of the Swiss Mobility and Transport Microcensus (MTMC)
