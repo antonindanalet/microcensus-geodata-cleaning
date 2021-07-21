@@ -1,4 +1,4 @@
-# Geodata cleaning of the Mobility and Transport Microcensus 2020 & '21
+# Geodata cleaning of the Mobility and Transport Microcensus '20 & '21
 This R code cleans the geodata of the Swiss <a href="https://www.are.admin.ch/mtmc">Mobility and Transport Microcensus (MTMC)</a>:
 - It makes sure that the geodata are coherent (e.g. distances are plausible)
 - It adds some typologies based on the geodata (e.g. <a href="https://s.geo.admin.ch/91f3a3a9e2">public transport quality categories</a>)
